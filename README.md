@@ -28,7 +28,7 @@ Work on this repo is in progress. Some notebooks may not be in a final state. Ot
 ## Running Notebooks in the Cloud
 To run the notebooks in the cloud via the free mybinder.org service funded by the Moore Foundation, click here: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ooi-data-review/ooi_datateam_notebooks/master)
 
-The processing power of this free service is limited, so the high data volume examples may run slow. It is recommended to run these on your local machine by cloning this repository. See Local Setup instructions below. Another alternative to run high data volume examples is via the commercial cloud. For example, you can deploy your personal [pangeo](https://github.com/pangeo-data/pangeo) instance with free credits from any of the commercial cloud providers. Processing the data in these notebooks, even the high volume ones, costs pennies or less.
+The processing power of this free service is limited, so the high data volume examples may run slow. It is recommended to run these on your local machine by cloning this repository. See Local Setup instructions below. Another alternative to run high data volume examples is via the commercial cloud. For example, you can deploy a [pangeo](https://github.com/pangeo-data/pangeo) instance with free credits from any of the commercial cloud providers.  
 
 ## Local Setup
 
