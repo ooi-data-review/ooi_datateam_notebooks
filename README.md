@@ -114,7 +114,6 @@ The mission of the OOI Data Team at Rutgers University is to facilitate access t
 Email: help@oceanobservatories.org
 
 #### TODO
-* add notebook on retrieving and working with ooi shipboard data
 * include overview of status on shipboard data under known issues
 * add lines to request a count of all annotations in the system to annotations notebook
 * add example of using annotations and qc values to filter out questionable data
